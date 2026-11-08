@@ -29,7 +29,7 @@ jobs:
 
       - name: Install packages
         run: |
-          yarn install --immutable
+          yarn install --no-immutable
           yarn --cwd proto-extract install
 
       - name: Update WAProto.proto
