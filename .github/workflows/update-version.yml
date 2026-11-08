@@ -1,4 +1,4 @@
-Name: Update WhatsApp Version
+name: Update WhatsApp Version
 
 on:
   schedule:
