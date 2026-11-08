@@ -1,16 +1,16 @@
 {
   "name": "@aadhixd777/baileys",
   "type": "module",
-  "version": "7.1.1-rc14",
+  "version": "7.2.2-rc14",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/A-d-i-t-h-y-a-n-x-d/Baileys/",
+  "homepage": "https://github.com/Xion-Xer/Baileys/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A-d-i-t-h-y-a-n-x-d/Baileys.git"
+    "url": "git+https://github.com/Xion-Xer/Baileys.git"
   },
   "license": "MIT",
   "author": "Aadhi xd",
